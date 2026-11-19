@@ -1,0 +1,16 @@
+{
+  "command": [
+    "dotnet",
+    "bin/Debug/net8.0/App.dll"
+  ],
+  "expected": {
+    "parallel": [
+      3,
+      0
+    ],
+    "perpendicular": [
+      0,
+      4
+    ]
+  }
+}
